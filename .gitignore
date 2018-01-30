@@ -7,10 +7,10 @@ __pycache__/
 *.so
 
 # virtualenv
-# /bitcoin
+/bitcoin
 
 # data
-/data
+# /data
 
 # Distribution / packaging
 .Python
