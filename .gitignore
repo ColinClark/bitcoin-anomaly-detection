@@ -10,7 +10,7 @@ __pycache__/
 /bitcoin
 
 # data
-# /data
+/data
 
 # Distribution / packaging
 .Python
